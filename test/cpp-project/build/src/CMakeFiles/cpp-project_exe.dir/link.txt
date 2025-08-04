@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -Wextra -g CMakeFiles/cpp-project_exe.dir/main.cpp.o -o ../bin/cpp-project_exe  ../lib/libcpp-project_utils.a ../lib/libcpp-project_datatree.a ../lib/libcpp-project_utils.a 

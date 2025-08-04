@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libcpp-project_utils.a CMakeFiles/cpp-project_utils.dir/utils.cpp.o CMakeFiles/cpp-project_utils.dir/CallbackQueue.cpp.o
+/usr/bin/ranlib ../../lib/libcpp-project_utils.a

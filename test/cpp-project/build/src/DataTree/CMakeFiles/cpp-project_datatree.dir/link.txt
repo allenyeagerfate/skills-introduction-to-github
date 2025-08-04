@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libcpp-project_datatree.a CMakeFiles/cpp-project_datatree.dir/DeviceData.cpp.o CMakeFiles/cpp-project_datatree.dir/ModbusTcpTree.cpp.o CMakeFiles/cpp-project_datatree.dir/modbus.cpp.o
+/usr/bin/ranlib ../../lib/libcpp-project_datatree.a
